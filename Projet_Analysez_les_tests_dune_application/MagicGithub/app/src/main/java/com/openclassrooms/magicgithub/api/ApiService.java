@@ -9,3 +9,4 @@ public interface ApiService {
     void generateRandomUser();
     void deleteUser(User username);
 }
+
